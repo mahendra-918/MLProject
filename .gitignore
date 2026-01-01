@@ -2,3 +2,4 @@ venv
 MLProject.egg-info/
 logs
 artifacts
+DS_Store
