@@ -7,3 +7,5 @@ artifacts
 __pycache__/
 *.py[cod]
 *$py.class
+
+catboost_info/
