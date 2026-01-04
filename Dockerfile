@@ -22,4 +22,4 @@ RUN sed -i '/-e ./d' requirements.txt
 # 4. Install requirements
 RUN pip install -r requirements.txt
 
-CMD [ "python3", "app.py" ]
+CMD [ "python3", "application.py" ]
